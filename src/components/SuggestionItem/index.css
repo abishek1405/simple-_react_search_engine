@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.list {
+  padding: 5px;
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.arrow_img {
+  width: 20px;
+}
